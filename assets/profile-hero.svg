@@ -1,0 +1,29 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Amine — student builder from Tunisia</title>
+  <desc id="desc">A dark profile banner featuring Amine's name, current projects Qrayti and ScamShield, and technology focus.</desc>
+  <defs>
+    <linearGradient id="name" x1="70" y1="150" x2="350" y2="150" gradientUnits="userSpaceOnUse"><stop stop-color="#F6F8FF"/><stop offset="0.58" stop-color="#C7B8FF"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientTransform="translate(90 390) rotate(-32) scale(430 330)" gradientUnits="userSpaceOnUse"><stop stop-color="#8B6CFF" stop-opacity="0.36"/><stop offset="1" stop-color="#8B6CFF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientTransform="translate(1190 20) rotate(135) scale(370 300)" gradientUnits="userSpaceOnUse"><stop stop-color="#22D3EE" stop-opacity="0.25"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse"><path d="M64 0H0V64" stroke="#97A6C7" stroke-opacity="0.09"/></pattern>
+    <filter id="shadow" x="800" y="10" width="476" height="418" filterUnits="userSpaceOnUse"><feDropShadow dx="0" dy="22" stdDeviation="25" flood-color="#000" flood-opacity="0.34"/></filter>
+  </defs>
+  <rect width="1280" height="420" rx="28" fill="#090D18"/><rect width="1280" height="420" rx="28" fill="url(#grid)"/><rect width="1280" height="420" rx="28" fill="url(#violetGlow)"/><rect width="1280" height="420" rx="28" fill="url(#cyanGlow)"/>
+  <g font-family="Space Grotesk, Inter, Segoe UI, sans-serif">
+    <text x="72" y="78" fill="#22D3EE" font-size="14" font-weight="700" letter-spacing="1.7">TUNISIA  /  STUDENT BUILDER</text>
+    <text x="68" y="170" fill="url(#name)" font-size="88" font-weight="700" letter-spacing="-4">AMINE</text>
+    <text x="72" y="222" fill="#F6F8FF" font-size="25" font-weight="500">Salamo alikom — m3akom L'Amine.</text>
+    <text x="72" y="263" fill="#9AA8C7" font-size="17">Building Qrayti, ScamShield, and useful software for real people.</text>
+    <text x="72" y="304" fill="#9A7DFF" font-size="13" font-weight="600" letter-spacing="0.8">KOTLIN  ·  REACT  ·  TYPESCRIPT  ·  CLOUDFLARE</text>
+    <rect x="72" y="331" width="460" height="1" fill="#9AA8C7" fill-opacity="0.18"/><text x="72" y="363" fill="#6F7E9E" font-size="12" font-weight="500">github.com/Amineakermii</text>
+  </g>
+  <g filter="url(#shadow)"><rect x="868.5" y="58.5" width="339" height="301" rx="23.5" fill="#131A2D" fill-opacity="0.94" stroke="#22D3EE" stroke-opacity="0.88"/></g>
+  <g font-family="Space Grotesk, Inter, Segoe UI, sans-serif">
+    <circle cx="896" cy="87" r="4.5" fill="#E0489B"/><circle cx="914" cy="87" r="4.5" fill="#8B6CFF"/><circle cx="932" cy="87" r="4.5" fill="#22D3EE"/><text x="947" y="92" fill="#8E9BB8" font-size="12" font-weight="500">amine@github  ~</text><rect x="892" y="111" width="292" height="1" fill="#9AA8C7" fill-opacity="0.18"/>
+    <text x="892" y="144" fill="#22D3EE" font-size="14" font-weight="700">$</text><text x="911" y="144" fill="#F6F8FF" font-size="14" font-weight="600">now building</text>
+    <text x="892" y="183" fill="#8B6CFF" font-size="16" font-weight="700">01</text><text x="921" y="183" fill="#F6F8FF" font-size="16" font-weight="600">Qrayti · قرايتي</text>
+    <text x="892" y="221" fill="#E0489B" font-size="16" font-weight="700">02</text><text x="921" y="221" fill="#F6F8FF" font-size="16" font-weight="600">ScamShield</text>
+    <circle cx="897" cy="266" r="5" fill="#22D3EE"/><text x="913" y="271" fill="#9AA8C7" font-size="13" font-weight="500">shipping from Tunisia</text>
+    <text x="892" y="309" fill="#8B6CFF" font-size="14" font-weight="700">→</text><text x="913" y="309" fill="#9AA8C7" font-size="12" font-weight="500">github.com/Amineakermii</text>
+  </g>
+</svg>
