@@ -22,6 +22,15 @@
 - ☁️ A Cloudflare-backed platform that keeps large learning files out of Git.
 - 🤝 An open contribution path for developers and Tunisian students.
 
+## 🛡️ Featured security project
+
+<table>
+<tr>
+<td width="150" align="center">🛡️</td>
+<td><h3><a href="https://github.com/Amineakermii/scamshield">ScamShield</a></h3><p>An explainable, privacy-first phishing and scam warning analyzer. It uses deterministic rules to score suspicious messages and URLs, shows exactly why points were added, and never visits submitted links.</p><p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Vitest</code> <code>Cybersecurity</code></p></td>
+</tr>
+</table>
+
 ## Join the project
 
 Browse the [Qrayti source](https://github.com/Amineakermii/Qrayti), open an [issue](https://github.com/Amineakermii/Qrayti/issues), or read the [contribution guide](https://github.com/Amineakermii/Qrayti/blob/main/CONTRIBUTING.md).
