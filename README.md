@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Amine 👋</h1>
+<h1 align="center">Salamo alikom, m3akom L'Amine 👋</h1>
 <p align="center"><strong>Building student-first software from Tunisia.</strong></p>
 <p align="center">
   <a href="https://github.com/Amineakermii/Qrayti"><img src="https://img.shields.io/badge/Flagship-Qrayti-c319a8?style=for-the-badge" alt="Qrayti"></a>
