@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/amineakermii/">Instagram</a> ·
+  <a href="https://www.instagram.com/amine.akermii/">Instagram</a> ·
   <a href="https://github.com/Amineakermii/Qrayti">Qrayti</a> ·
   <a href="https://github.com/Amineakermii/scamshield">ScamShield</a>
 </p>
