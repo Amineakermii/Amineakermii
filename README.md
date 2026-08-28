@@ -30,4 +30,4 @@ I start with real problems, keep the interface understandable, and try to ship t
 
 ## Elsewhere
 
-I'm **[@amineakermii](https://www.instagram.com/amineakermii/)** on Instagram.
+I'm **[@amineakermii](https://www.instagram.com/amine.akermii/)** on Instagram.
